@@ -3,7 +3,7 @@
 <package format="3">
   <name>merge_arrays</name>
   <version>0.0.0</version>
-  <description>Takes in two arrays to create a merged sorted array</description>
+  <description>Takes in two arrays to create a merged sorted array using a publisher/subscriber</description>
   <maintainer email="aidanmahoneyemail@gmail.com">Aidan Mahoney</maintainer>
   <license>Apache License 2.0</license>
 
