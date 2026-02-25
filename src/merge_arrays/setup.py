@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='aidanmahoney',
+    maintainer='Aidan Mahoney',
     maintainer_email='aidanmahoneyemail@gmail.com',
-    description='Takes in two arrays to create a merged sorted array',
+    description='Takes in two arrays to create a merged sorted array using a publisher/subscriber',
     license='Apache License 2.0',
     extras_require={
         'test': [
