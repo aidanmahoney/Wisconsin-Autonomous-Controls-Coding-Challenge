@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='root',
-    maintainer_email='root@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer='aidanmahoney',
+    maintainer_email='aidanmahoneyemail@gmail.com',
+    description='Takes in two arrays to create a merged sorted array',
+    license='Apache License 2.0',
     extras_require={
         'test': [
             'pytest',
